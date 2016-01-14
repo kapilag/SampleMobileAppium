@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="Practo Mobile Suite" verbose="2" >
+
+	
+	<test name="Practo Doc Details" preserve-order="true">
+		<classes>
+			<class name="simpleApp.PractoDocSearch"></class>
+		</classes>
+	</test>
+</suite> 
+ 
